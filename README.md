@@ -1,8 +1,9 @@
-#Students United Project
-Functionality status:
-Login : in progress
-Admin Panel : planned
-User Management : planned
-Upload : planned
-download : planned
-Rate : planned
+# Students United Project
+First django project
+## Functionality status:
+### Login : in progress 
+### Admin Panel : planned
+### User Management : planned
+### Upload : planned
+### Download : planned
+### Rate : planned
