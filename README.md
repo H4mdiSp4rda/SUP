@@ -1,7 +1,8 @@
 # Students United Project
-First django project
+What am i ?
 ## Functionality status:
-### Login : in progress 
+### Landing Page : done
+### User Registration and Login : in progress 
 ### Admin Panel : planned
 ### User Management : planned
 ### Upload : planned
