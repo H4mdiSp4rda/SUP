@@ -26,6 +26,7 @@ urlpatterns = [
     url(r'^details', login_views.details, name='details'),
     url(r'^about', login_views.about, name='about'),
     url(r'^contact', login_views.contact, name='contact'),
+    url(r'^test', login_views.test, name='test'),
     url(r'^accounts/', include('registration.backends.default.urls')),
 ]
 #'login.views.home' replaced with home,
