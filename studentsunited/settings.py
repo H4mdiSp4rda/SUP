@@ -95,7 +95,7 @@ WSGI_APPLICATION = 'studentsunited.wsgi.application'
 DATABASES = {
     'default' : {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'studentsunited',
+        'NAME': 'trash',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': 'localhost',

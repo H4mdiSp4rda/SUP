@@ -24,6 +24,7 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', login_views.home, name='home'),
     url(r'^details', login_views.details, name='details'),
+    url(r'^upload', login_views.upload, name='upload'),
     url(r'^about', login_views.about, name='about'),
     url(r'^contact', login_views.contact, name='contact'),
     url(r'^test', login_views.test, name='test'),
